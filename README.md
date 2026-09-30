@@ -1,52 +1,19 @@
-# Hi there 👋 I'm Calder
+# Hi, I'm Calder (Lin Luo)
 
-**Full-Stack Developer  
-Web3 & AI Agent Enthusiast**
+I'm a Communication Engineering undergrad at Beijing Information Science & Technology University (class of 2028). I build AI agents that make decisions for groups of people and show their reasoning.
 
-<div align="center">
+## What I'm working on
 
-  <img height="180em" src="./assets/github-stats.svg" alt="Calder's GitHub stats"/>
+- **[MeetSpot](https://github.com/calderbuild/MeetSpot)**: an agent that picks a meeting point that is fair to everyone in the group and explains why each venue ranked where it did. It can check fairness against real commute times, not just straight-line distance. 530+ stars, [live demo](https://meetspot-irq2.onrender.com). 2nd prize at the Soul App Agent Hackathon finals.
+- **QualityAgent**: my first-author paper at IEEE IRAI 2026 (Melbourne). A three-agent pipeline that turns a defect image into CAPA and PFMEA documents that follow ISO 9001, with humans supervising the output. IEEE IES SYPA Travel Grant.
+- **[VibeDoc](https://github.com/calderbuild/VibeDoc)**: turns a rough product idea into a PRD, architecture diagrams, and coding prompts. Best Topic Award at the OpenManus Hackathon.
 
-  <img height="180em" src="./assets/top-langs.svg" alt="Calder's most used languages"/>
+Other things I've built: [WeFinance](https://github.com/calderbuild/WeFinance) (bill photos to finance insights with a vision LLM, Excellence Award at the 12th Nvidia Sky Hackathon) and [agentcut](https://github.com/calderbuild/agentcut) (six agents that turn one prompt into a finished video).
 
-</div>
+## Stack
 
----
+Python (FastAPI, LangGraph), TypeScript, React, Postgres, Docker.
 
-## 🎯 Featured Projects
+## Contact
 
-<a href="https://github.com/calderbuild/MeetSpot">
-  <img src="./assets/pin-meetspot.svg" alt="MeetSpot"/>
-</a>
-<a href="https://github.com/calderbuild/VibeDoc">
-  <img src="./assets/pin-vibedoc.svg" alt="VibeDoc"/>
-</a>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📫 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/calderbuild)
-[![Blog](https://img.shields.io/badge/-个人博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://calderbuild.github.io/)
-[![ModelScope](https://img.shields.io/badge/-魔塔空间-6B4FBB?style=for-the-badge&logo=huggingface&logoColor=white)](https://www.modelscope.cn/profile/JasonRobert)
-![WeChat](https://img.shields.io/badge/-微信:calderio-07C160?style=for-the-badge&logo=wechat&logoColor=white)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/lin-luo-58851b421/) · [X](https://x.com/calderbuild) · johnrobertdestiny@gmail.com
