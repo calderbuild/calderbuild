@@ -21,4 +21,4 @@ Python (FastAPI, LangGraph), TypeScript, React, Postgres, Docker.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/lin-luo-58851b421/) · [X](https://x.com/calderbuild) · johnrobertdestiny@gmail.com
+[X](https://x.com/calderbuild) · johnrobertdestiny@gmail.com
