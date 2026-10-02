@@ -2,6 +2,11 @@
 
 I build AI agents that make decisions for groups of people and show their reasoning.
 
+<div align="center">
+  <img height="180em" src="./assets/github-stats.svg" alt="GitHub stats"/>
+  <img height="180em" src="./assets/top-langs.svg" alt="Most used languages"/>
+</div>
+
 ## What I'm working on
 
 - **[MeetSpot](https://github.com/calderbuild/MeetSpot)**: an agent that picks a meeting point that is fair to everyone in the group and explains why each venue ranked where it did. It can check fairness against real commute times, not just straight-line distance. 530+ stars, [live demo](https://meetspot-irq2.onrender.com). 2nd prize at the Soul App Agent Hackathon finals.
