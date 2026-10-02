@@ -1,6 +1,6 @@
-# Hi, I'm Calder (Lin Luo)
+# Hi, I'm Calder
 
-I'm a Communication Engineering undergrad at Beijing Information Science & Technology University (class of 2028). I build AI agents that make decisions for groups of people and show their reasoning.
+I build AI agents that make decisions for groups of people and show their reasoning.
 
 ## What I'm working on
 
