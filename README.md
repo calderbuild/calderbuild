@@ -9,7 +9,7 @@ I build AI agents that make decisions for groups of people and show their reason
 
 ## What I'm working on
 
-- **[MeetSpot](https://github.com/calderbuild/MeetSpot)**: an agent that picks a meeting point that is fair to everyone in the group and explains why each venue ranked where it did. It can check fairness against real commute times, not just straight-line distance. 530+ stars, [live demo](https://meetspot-irq2.onrender.com). 2nd prize at the Soul App Agent Hackathon finals.
+- **[MeetSpot](https://github.com/calderbuild/MeetSpot)**: an agent that picks a meeting point that is fair to everyone in the group and explains why each venue ranked where it did. It can check fairness against real commute times, not just straight-line distance. 530+ stars, [live demo](https://meetspot-irq2.onrender.com).
 - **QualityAgent**: my first-author paper at IEEE IRAI 2026 (Melbourne). A three-agent pipeline that turns a defect image into CAPA and PFMEA documents that follow ISO 9001, with humans supervising the output. IEEE IES SYPA Travel Grant.
 - **[VibeDoc](https://github.com/calderbuild/VibeDoc)**: turns a rough product idea into a PRD, architecture diagrams, and coding prompts. Best Topic Award at the OpenManus Hackathon.
 
